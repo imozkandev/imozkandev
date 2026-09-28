@@ -8,11 +8,21 @@
   <a href="https://ozkandev.com"><img src="https://img.shields.io/badge/Portfolio-ozkandev.com-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:13ozkanozturk@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://img.shields.io/badge/Based%20in-Istanbul%2C%20Türkiye-0F766E?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+
+  <a href="./assets/cv/Ozkan_Ozturk_CV_EN.pdf?raw=1"><img src="https://img.shields.io/badge/Download_CV-English-2563EB?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download English CV" /></a>
+  <a href="./assets/cv/Ozkan_Ozturk_CV_TR.pdf?raw=1"><img src="https://img.shields.io/badge/CV_İndir-Türkçe-DC2626?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Türkçe CV indir" /></a>
 </div>
 
 <br />
 
 > I build dependable digital products across mobile, game, and web. My work combines practical product thinking with strong engineering fundamentals - from initial architecture to a polished production release.
+
+## CV downloads
+
+| Language | PDF |
+| :-- | :-- |
+| English | [Download / view English CV](./assets/cv/Ozkan_Ozturk_CV_EN.pdf?raw=1) |
+| Türkçe | [Türkçe CV'yi indir / görüntüle](./assets/cv/Ozkan_Ozturk_CV_TR.pdf?raw=1) |
 
 ## About me
 
