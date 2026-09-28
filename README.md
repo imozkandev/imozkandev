@@ -1,0 +1,19 @@
+<!-- GitHub profile-ready entry point. The complete CV is intentionally kept in ozkandev.md. -->
+
+# Özkan Öztürk - Software Developer
+
+<p align="center">
+  <img src="assets/ozkan-ozturk.png" alt="Özkan Öztürk" width="150" />
+</p>
+
+<p align="center">
+  <a href="./ozkandev.md"><b>View my profile CV →</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://ozkandev.com">Portfolio</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:13ozkanozturk@gmail.com">Email</a>
+</p>
+
+> A Software Developer specializing in Unity/C#, React Native, and full-stack product delivery. Based in Istanbul, Türkiye.
+
+This repository is the home of my GitHub-ready CV. See **[ozkandev.md](./ozkandev.md)** for my experience, technical toolkit, education, and contact details.
